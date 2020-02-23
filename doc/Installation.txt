@@ -1,0 +1,4 @@
+1. Avage CMD
+2. Avage Muusikamängija kaust CMDs
+3. Kompileerimiseks kirjutage: javac -cp lib/JLayer1.0.1/jl1.0.1.jar -d bin/ src/*.java
+4. Käivitamiseks kirjutage: java -cp bin;lib/JLayer1.0.1/jl1.0.1.jar player.CreateWindow

@@ -1,0 +1,14 @@
+Tegemist on muusikamängija rakendusega, mis mängib ainult MP3 faile.
+Programm otsib teie arvuti Muusika kaustast (C://Users//Teie_kasutajanimi//music), kui programm ei leia
+nt pole sellist kasuta või MP3 failid puuduvad, siis saab neid "Add Music" nupule vajutades ise juurde lisada
+teistest kaustadest.
+Ja lisaks saab veel ka helitugevust muuta, kuid pausile kahjuks ei saa panna. 
+
+Programmi on testitud Windows 10 peal.
+
+Ütlen juba ette ära, et CreateWindows class võib natuke segane olla,
+sest mul polnud enne kirjutamist suuri teadmisi, kuidas teha akent ja panna muusika käima
+ning selletõttu sai koodistruktuur kannatada ja front-end ei ole ka just kiita,
+sest nende nuppude paigutamisega oli alguses raskusi ja siis kui oli hilja juba
+ehk programm oli juba põhimõtteliselt valmis ja aega oli jäänud mõned päevad,
+siis avastasin, et front-endi oleks saanud lohistamisega ka teha, kasutades XMLi.
